@@ -5,3 +5,4 @@ def find_len(list1):
     print("Second Smallest element is:",list1[1])
 list1=[12,5,2,25,62,33,]
 Largest = find_len(list1)
+hwelolj lijnejfbkjd
