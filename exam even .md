@@ -1,3 +1,5 @@
+
+
 1.	installing the GIT 
 	Download Git: Go to https://git-scm.com/download/win and get the Git installer for Windows.
 	Run Installer: Double-click the downloaded file to start the installation process.
@@ -15,29 +17,39 @@
 	Confirm Changes: After selecting "Private", GitHub will prompt you to confirm the change. You might need to provide your GitHub password or re-enter your account credentials to confirm the action.
 	Save Changes: Once confirmed, click on the "Make private" button to save your changes.
 	Verify Repository Status: After making the repository private, its visibility will be updated accordingly. You'll notice a lock icon next to the repository name, indicating that it's now private.
-3
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/c6f121df-c77c-47a8-ba60-2f7236d53874)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/a4f2a29f-39b8-4d0e-a527-6d42bfd38580)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/cfa86fad-bb66-4359-a7e0-7ea4b982b587)
-4
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/fe50bafc-3f23-414e-b4b8-bafcc6a980a7)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/2e8d4d72-5078-4c03-893d-e33ee5c82564)
-5
-![image](https://github.com/kuruvaravi/elementary-oprati
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/288bada6-f5c0-4690-ad30-9336de9eaff3)
-on/assets/153703114/cb147c48-35f6-472f-9ad8-037079bd64de)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/23b10b3c-41b3-4ebd-a847-bf0f438d7a33)
-6
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/3fba132b-cb12-4a08-a66e-92e91adad14c)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/589f4583-3cd8-4482-9b6a-959df1a0e6da)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/54c8e767-f153-41eb-aa90-7ec27bc3f905)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/17e9cecb-15af-437f-9778-be208f778afe)
-![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/365dbefc-9873-46b2-8572-d7e259951712)
+
+
+3.3.	Write and execute the commands to set up and configure git on your local machine.
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/162d741e-2c6e-475c-88c5-7dc8e5f920ba)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/b1ebb356-4ebe-4648-83ab-6daabc482b44)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/fadada7c-fb3d-4992-ad9c-317a6455871f)
+
+
+4.44.	performing basic operations in Git. 
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/afacc426-5fbd-47f4-9197-64542f09b798)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/aaf3e793-7146-4084-aaee-2ec781868d65)
+
+
+5.5.	Write and execute the three important steps of version control. 
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/4ff377e4-ab70-4426-86a7-d1c47a22228d)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/01812074-d3f6-4bf3-90bf-8464aafbe1fd)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/423d1848-8c2d-441b-a203-3f2bc5a0c9b8)
 
 
 
-7.	Explain and execute how to create branches and merging branches. 
+6.6
+6.	execute git add, git commit, git push, git pull, git status.
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/dea0d73d-ff8e-4a2e-8478-bfa190b5b215)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/63fe80ff-d54d-4f86-8cf5-f436d77aefb2)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/59391045-ad99-4a72-b693-7eb6b8e28b26)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/c4127195-d068-4370-85a5-1576916e9d32)
+![image](https://github.com/kuruvaravi/elementary-opration/assets/153703114/0147bb25-157c-4b47-879b-989700ab4bed)
+
+
+7.77.	Explain and execute how to create branches and merging branches. 
+
 Creating branches
+
 To keep track of changes to this file using git, you need to:
 1.	Clone the repository.
 2.	Move into the cloned repository
@@ -62,9 +74,8 @@ git commit -m "Merge feature-branch into main"
 git push origin main
 
 
-
-8.Create and Address GitHub Issues
-1.	Create a new issue in your repository:
+.8.88.Create and Address GitHub Issues.
+	Create a new issue in your repository:
 i.	Go to your GitHub repository.
 ii.	Click on the "Issues" tab.
 iii.	Click the "New issue" button.
@@ -87,7 +98,7 @@ git push origin main
 The issue will be automatically closed when the commit is pushed.
 
 
-
+viva .
 
 1.	What is git’s feature?
 Git features version control, branching and merging, distributed development, collaboration tools like pull requests, and cryptographic integrity checks.
@@ -102,9 +113,8 @@ Merge Conflicts
 Lack of GUI for Some Operations
 Risk of Data Loss
 
-
-
 4.	What are branches, and what command creates a new branch?
+
 Branches in Git are parallel lines of development that diverge from the main line (usually called the "master" or "main" branch) to work on different features, fixes, or experiments independently. They allow developers to isolate their work from the main codebase until it's ready to be merged.
 The command git branch <branch_name> creates a new branch in Git.
 
@@ -141,15 +151,15 @@ Centralized Version Control Systems (CVCS): In CVCS, there is a central server t
 Distributed Version Control Systems (DVCS): In DVCS, each developer has their own local copy of the repository, including the full history of the project. Developers can work independently and synchronize their changes with remote repositories as needed. Git is the most popular example of a DVCS.
 
 15.	Can we delete the github account. 
-
 Yes, you can delete a GitHub account. 
 
 16.	Name any two git repository hosting services that are common. 
-
 Two common Git repository hosting services are Bitbucket and GitLab.
 
 17.	What is git clone?
 git clone is a Git command used to create a copy of a repository from a remote source, such as GitHub, Bitbucket, or GitLab, to your local machine. It copies all the files, commit history, and branches from the remote repository to your local machine, allowing you to work on the project locally and synchronize changes with the remote repository.
+
+
 18.	What is staging environment?
 A staging environment is a pre-production environment that closely resembles the production environment. It serves as an intermediate step between development and production environments, allowing developers to test their code in a controlled environment before deploying it to production.
 
@@ -160,6 +170,20 @@ GitHub Issues is a feature provided by GitHub for tracking tasks, enhancements, 
 Git submodules and Git aliases are two different features of Git:
 Git Submodules: Git submodules allow you to include a separate Git repository as a subdirectory within your own repository. This is useful when you want to include another project as a dependency in your own project. Git submodules allow you to track the specific version of the dependent repository that your project relies on, making it easier to manage dependencies and collaborate with others.
 Git Aliases: Git aliases are custom shortcuts or abbreviations for Git commands. They allow you to create shorter, more memorable names for frequently used Git commands or command sequences. For example, you could create an alias co for git checkout, ci for git commit, or st for git status. Git aliases can be defined either globally (for all repositories on your system) or locally (for a specific repository) in your Git configuration file. They help improve productivity and streamline your workflow by reducing the need to type out long Git commands repeatedly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
